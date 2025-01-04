@@ -52,3 +52,9 @@ A passionate Backend Developer, I specialize in building scalable, high-performa
 <a target="_blank" href="https://www.linkedin.com/in/sambit-kumar-sahoo-" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/sambit619" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="mailto:sambitkumar75@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sambit99/Sambit99/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sambit99/Sambit99/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sambit99/Sambit99/output/github-snake.svg" />
+</picture>
