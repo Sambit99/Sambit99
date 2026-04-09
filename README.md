@@ -10,19 +10,19 @@ A passionate Backend Developer, I specialize in building scalable, high-performa
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,go,nodejs,express,npm,spring,maven" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,mongodb,mysql,postgres,redis" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kafka,kubernetes,nginx,graphql,mongodb,mysql,postgres,redis" />
+    <img src="https://skillicons.dev/icons?i=docker,kafka,kubernetes,nginx,graphql,aws,azure" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,postman,nextjs,vite,git,github" />
+    <img src="https://skillicons.dev/icons?i=postman,nextjs,vite,git,github" />
   </a>
 </p>
 
